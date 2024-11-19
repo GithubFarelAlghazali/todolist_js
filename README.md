@@ -1,2 +1,3 @@
-# to_do_list_js
-Simple to do list build with HTML, CSS, &amp; JavaScript
+# todolist_js
+
+Simple to do list build with HTML, CSS, & JavaScript. Is just simple project that use DOM Manipulation & LocalStorage to store the tasks list
